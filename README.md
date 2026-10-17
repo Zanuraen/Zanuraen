@@ -4,48 +4,20 @@
   <img src="hero.svg" alt="Hi, I’m Zanuraen. Fullstack Developer. Open to collaborate." width="100%" />
 </h1>
 
-<p align="center">
-  <a href="https://github.com/Zanuraen">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=00FF9C&center=true&vCenter=true&width=640&height=40&lines=%3E+initializing+portfolio...;%3E+building+web+apps+with+Laravel+%26+PHP;%3E+crafting+mobile+apps+with+Flutter+%26+Dart;%3E+leveling+up+one+commit+at+a+time" alt="Typing animation" />
-  </a>
-</p>
+# About Me
 
----
+I'm a **Computer Science** student at Universitas Bumigora Mataram **Indonesia**, passionate about building impactful digital solutions through software development. Aspiring to become a Full-Stack Developer, I'm continuously exploring front-end and back-end technologies, sharpening my **problem-solving skills**, and turning ideas into practical applications. I believe that every project is an opportunity to **learn, grow, and create something meaningful**.
 
-## > about_me
-
-```bash
-$ whoami
-Muhammad Zanuraen
-
-$ cat about.txt
-Engineering student at Bumigora University, Mataram, Indonesia.
-I build web apps with HTML, CSS, Tailwind, JavaScript, PHP & Laravel,
-and cross-platform mobile apps with Flutter & Dart.
-
-$ ls ./focus
-web-apps/       # Laravel / PHP / Tailwind
-mobile-apps/    # Flutter / Dart
-ui-design/      # Figma to code
-
-$ echo $STATUS
-Learning in public. Open to collaboration.
-```
-
----
-
-## > socials
+# Socials
 
 <p align="center">
   <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/muhammad-zanuraen-019b17332/?isSelfProfile=true"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/https://www.instagram.com/zanuraen_88/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:zanuraen.88@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://wa.me/6288987335793"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </p>
 
----
-
-## > tech_stack
+# Techstack & Tools
 
 <h3 align="center">Stack</h3>
 <p align="center">
@@ -57,9 +29,8 @@ Learning in public. Open to collaboration.
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=8" alt="Tool icons" />
 </p>
 
----
 
-## > projects
+# Projects
 
 ### Featured
 
@@ -70,16 +41,8 @@ Learning in public. Open to collaboration.
 | [`firebase`](https://github.com/Zanuraen/firebase) | Firebase integration project covering authentication and cloud data for Flutter apps. |
 | [`tugas-uts-pemograman-web-service`](https://github.com/Zanuraen/tugas-uts-pemograman-web-service) | Web service midterm project, built in collaboration with Dzaky. |
 
-### Learning notes
 
-| Project | Description |
-| :-- | :-- |
-| [`belajar-oop-dart`](https://github.com/Zanuraen/belajar-oop-dart) | Object-oriented programming fundamentals in Dart: classes, inheritance, polymorphism. |
-| [`Belajar-otodidak`](https://github.com/Zanuraen/Belajar-otodidak) | Self-taught practice log with Dart exercises and experiments. |
-
----
-
-## > contributions
+# Contributions
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Zanuraen&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=ff00ff&text_color=c9d1d9&count_private=true" alt="GitHub stats" />
@@ -89,15 +52,5 @@ Learning in public. Open to collaboration.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Zanuraen&theme=dark&background=0d1117&ring=ff00ff&fire=ff9c00&currStreakLabel=00ff9c&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=30363d&hide_border=true" alt="Contribution streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zanuraen&bg_color=0d1117&color=00ff9c&line=ff00ff&point=ffffff&area=true&area_color=ff00ff&hide_border=true" alt="Contribution activity graph" />
-</p>
-
-<!-- Optional snake: after running the "Generate Snake" workflow once, remove the comment markers around this block.
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Zanuraen/Zanuraen/output/github-snake-dark.svg" alt="Contribution snake animation" />
-</p>
--->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00ff9c,50:2b0a3d,100:0d1117&section=footer" alt="" />
